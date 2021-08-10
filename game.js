@@ -1,5 +1,5 @@
-var player1 = localStorage.getItem("Player 1 Name");
-var player2 = localStorage.getItem("Player 2 Name");
+var player1 = localStorage.getItem("player_1_name");
+var player2 = localStorage.getItem("player_2_name");
 console.log(player1, player2);
 var score1 = 0;
 var score2 = 0;
